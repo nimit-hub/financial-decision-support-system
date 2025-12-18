@@ -157,7 +157,8 @@ pip install -r requirements.txt
 2️⃣ Start the dashboard
 streamlit run app.py
 Open in browser:
-http://localhost:8501
+🚀 Live App: https://financial-decision-support-system-3fetlycsqv2ylqzdz8jwag.streamlit.app/
+
 
 📌 Use Cases
 
