@@ -1,5 +1,7 @@
 📊 Financial Decision Support System
 
+link https://financial-decision-support-system-3fetlycsqv2ylqzdz8jwag.streamlit.app/
+
 An end-to-end Financial Analysis & Decision Support Platform built using Python, Streamlit, and SQLite.
 The system allows users to upload financial statements, validate data, simulate business decisions, forecast outcomes, analyze risk, and compare multiple financial scenarios interactively.
 
